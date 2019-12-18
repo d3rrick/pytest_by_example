@@ -9,6 +9,7 @@ The repo has useful pytest example demonstrating  pytest elagance in QA automate
     - Stand alone - tests should not depend on each other, or else there should be minimal dependancy.
     - Test dependancy comes in handy when testing business logic.
     - Any part of API under test should be configurable, i.e remove any hard coding as much as possible.
+    - Running tests on multiple environments e.g development,staging or Production or types of browsers.
 
 ###### Therefore there is a need to organize test process or flow to ensure that apis tests yield maximum benefits like test accuracy,maintainance and speed.
 
