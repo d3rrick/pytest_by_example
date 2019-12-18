@@ -16,7 +16,7 @@ The repo has useful pytest example demonstrating  pytest elagance in QA automate
   - hooks and advances stuffs. :):)
   
 ### Testting Framework
-I'm also putting together an [API test automation framework](https://github.com/derrick-gopher/API-test-automation-Framework) alongside these exmples.
+I'm also putting together an [API test automation framework](https://github.com/derrick-gopher/API-test-automation-Framework) alongside these examples.
 
 ### python 3
   - [python 3](https://www.python.org/downloads/) should be installed
